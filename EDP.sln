@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{9F459E68-8984-48DB-9927-ED76279E6907}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login.csproj", "{9F459E68-8984-48DB-9927-ED76279E6907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Register", "..\registerPage\Register.csproj", "{DCCAFEE6-7F56-452D-A47E-DB55CB06273B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9F459E68-8984-48DB-9927-ED76279E6907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F459E68-8984-48DB-9927-ED76279E6907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F459E68-8984-48DB-9927-ED76279E6907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCAFEE6-7F56-452D-A47E-DB55CB06273B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCAFEE6-7F56-452D-A47E-DB55CB06273B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCAFEE6-7F56-452D-A47E-DB55CB06273B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCAFEE6-7F56-452D-A47E-DB55CB06273B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
